@@ -819,7 +819,7 @@ function Footer() {
           <p className="flex items-center gap-1.5">
             <span className="text-neutral-600">Crafted by</span>
             <a
-              href="https://techbuddies.vercel.app/"
+              href="https://portfolio-self-nine-93.vercel.app/"
               target="_blank"
               rel="noopener noreferrer"
               className="group inline-flex items-center gap-1 font-semibold text-neutral-400 hover:text-white transition"
