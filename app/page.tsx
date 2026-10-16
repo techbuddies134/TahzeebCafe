@@ -824,7 +824,7 @@ function Footer() {
               rel="noopener noreferrer"
               className="group inline-flex items-center gap-1 font-semibold text-neutral-400 hover:text-white transition"
             >
-              TechBudies
+              TechBuddies
               <svg
                 xmlns="http://www.w3.org/2000/svg"
                 viewBox="0 0 24 24"
